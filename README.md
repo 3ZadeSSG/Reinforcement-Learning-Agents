@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/3ZadeSSG/Reinforcement-Learning-Agents/blob/main/LICENSE)
 
-<img src="https://github.com/3ZadeSSG/Reinforcement-Learning-Agents/blob/master/Assets/unity_ml.png">
+<img src="https://github.com/3ZadeSSG/Reinforcement-Learning-Agents/blob/main/Assets/unity_ml.png">
+
 # Reinforcement Learning Agents
 This repo contains two use cases where RL is used.
 1. A robotic arm to reach an object
@@ -10,7 +11,7 @@ This repo contains two use cases where RL is used.
 
 Unity ML Agents environment have been used to train these agents using Reinforcement Learning for performing the task.
 
-<img src="https://github.com/3ZadeSSG/Reinforcement-Learning-Agents/blob/master/Assets/robot.gif"><img src="https://github.com/3ZadeSSG/Reinforcement-Learning-Agents/blob/master/Assets/tennis.gif">
+<img src="https://github.com/3ZadeSSG/Reinforcement-Learning-Agents/blob/main/Assets/robot.gif"><img src="https://github.com/3ZadeSSG/Reinforcement-Learning-Agents/blob/main/Assets/tennis.gif">
 
 ### Setup
 1. Download the environment
